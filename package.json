@@ -2,9 +2,9 @@
   "name": "graphql-poc",
   "version": "1.0.0",
   "description": "graphql poc for entity vendors",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node index.js"
   },
   "author": "neparmarhhax",
   "license": "ISC",
